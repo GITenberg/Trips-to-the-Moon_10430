@@ -1,0 +1,57 @@
+_repo: Trips-to-the-Moon_10430
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Francklin, Thomas
+    alias: Franklin, Thomas
+    birthdate: 1721
+    deathdate: 1784
+    gutenberg_agent_id: '33030'
+    url: http://www.gutenberg.org/2009/agents/33030
+creator:
+  author:
+    agent_name: Lucian, of Samosata
+    aliases:
+    - Λουκιανός, ο Σαμοσατεύς
+    - Λουκιανός, ὁ Σαμοσατεύς
+    - Samosata, Lucian of
+    - Λουκιανος, ο Σαμοσατευς
+    birthdate: 120
+    deathdate: 180
+    gutenberg_agent_id: '1997'
+    url: http://www.gutenberg.org/2009/agents/1997
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Lucian
+    - http://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%85%CE%BA%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: 'Lucian of Samosata was an Assyrian rhetorician and satirist who wrote
+  in the Greek language. He is noted for his witty and scoffing nature. Trips to the
+  Moon contains three of his works: Instructions for Writing History, The True History,
+  Icaro-Menippus - A Dialogue. Lucian was one of the first novelists in occidental
+  civilization. In A True Story, a fictional narrative work written in prose, he parodied
+  some fantastic tales told by Homer in the Odyssey and some feeble fantasies that
+  were popular in his time ...'
+gutenberg_bookshelf: Precursors of Science Fiction
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary'
+- !lcsh 'Lucian, of Samosata -- Translations into English'
+- !lcc 'PA'
+- GITenberg
+tableOfContents: 'Introduction by Professor Henry Morley -- Instructions for writing
+  history --The true history -- Icaro-Menippus: a dialogue.'
+title: Trips to the Moon
+url: http://www.gutenberg.org/ebooks/10430
