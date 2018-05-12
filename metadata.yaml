@@ -1,5 +1,5 @@
 _repo: Trips-to-the-Moon_10430
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Francklin, Thomas
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1784
     gutenberg_agent_id: '33030'
     url: http://www.gutenberg.org/2009/agents/33030
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lucian, of Samosata
@@ -37,6 +40,8 @@ description: 'Lucian of Samosata was an Assyrian rhetorician and satirist who wr
   civilization. In A True Story, a fictional narrative work written in prose, he parodied
   some fantastic tales told by Homer in the Odyssey and some feeble fantasies that
   were popular in his time ...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10430#Trips-to-the-Moon
 gutenberg_bookshelf: Precursors of Science Fiction
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
